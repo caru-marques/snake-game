@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #BA14F8;
+}
+
+h5{
+    justify-content: right;
+    align-items: right;
+}
